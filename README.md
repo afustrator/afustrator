@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ahmad
+### Hello! I'm Ahmad
 ![](https://github.com/afustrator/afustrator/blob/master/banner-github.png)
 
 
