@@ -1,5 +1,6 @@
 ![](https://github.com/afustrator/afustrator/blob/master/banner-github.png)
 <h2 align='center'><samp><strong>Hi there 👋, I am Ahmad</strong></samp></h2>
+<p align='center'>Backend Developer | NodeJS Developer</p>
 
 
 ### Tech Stack
