@@ -5,3 +5,6 @@
 ### Tech Stack
 
 ![](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
