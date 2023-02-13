@@ -4,4 +4,4 @@
 
 ### Tech Stack
 
-!(https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
