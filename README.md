@@ -11,9 +11,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-<div>
-  [![Afustrator GitHub stats](https://github-readme-stats.vercel.app/api?username=afustrator)](https://github.com/afustrator/github-readme-stats)
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afustrator&layout=compact" />
-</div>
-
+<picture>
+  <source 
+  srcset="https://github-readme-stats.vercel.app/api?username=afustrator&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+  />  
+</picture
