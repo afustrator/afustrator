@@ -13,7 +13,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"
+  srcset="https://github-readme-stats.vercel.app/api?username=afustrator&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dracula)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=afustrator&show_icons=true" />
